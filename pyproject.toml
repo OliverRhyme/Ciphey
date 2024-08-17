@@ -19,7 +19,7 @@ rich = ">=4,<11"
 appdirs = "^1.4.4"
 base58 = "^2.0.1"
 base91 = "^1.0.1"
-cipheycore = { path = "../CipheyCore/build", develop = false }
+cipheycore = { path = "/CipheyCore.whl" }
 click = ">=7.1.2,<9.0.0"
 mock = "^4.0.3"
 pybase62 = ">=0.4.3,<0.6.0"
